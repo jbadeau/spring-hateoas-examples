@@ -23,7 +23,7 @@ import org.springframework.hateoas.config.EnableHypermediaSupport.HypermediaType
  * @author Greg Turnquist
  */
 @Configuration
-@EnableHypermediaSupport(type = HypermediaType.HAL_FORMS)
+@EnableHypermediaSupport(type = HypermediaType.HAL_FORMZ)
 class HypermediaConfiguration {
 
 }
